@@ -3,10 +3,10 @@
 `define AXI_IN_RD_ID_WIDTH   8
 `define AXI_IN_WR_ID_WIDTH   8
 
-`define AXI_IN_DATA_WIDTH    512
+`define AXI_IN_DATA_WIDTH    64
 `define AXI_IN_STRB_WIDTH    `AXI_IN_DATA_WIDTH/8
 
-`define AXI_OUT_DATA_WIDTH   512
+`define AXI_OUT_DATA_WIDTH   64
 `define AXI_OUT_STRB_WIDTH   `AXI_OUT_DATA_WIDTH/8
 
 `define AXI_OUT_ID_WIDTH     8

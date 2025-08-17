@@ -1,5 +1,0 @@
-//`include "my_axi_sanity_test.sv"
-//`include "no_dut_tb_smoke_test.sv"
-//`include "with_dut_tb_smoke_test.sv"
-`include "sig2avy_wr_rd_test.sv"
-`include "avy2sig_wr_rd_test.sv"

@@ -1,0 +1,1 @@
+${SIG_CMN_AXI_TB}/../sig_cmn_axi_sample.sv
